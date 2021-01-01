@@ -1,0 +1,7 @@
+your  email  "sender email" address goes on this line
+your password goes on this line
+your email smtp goes on this line
+smtp port goes on this line
+receiver email address goes on this line
+job title goes on this line
+location goes on this line
