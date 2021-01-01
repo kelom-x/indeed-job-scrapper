@@ -12,4 +12,6 @@ before using this script, make the necessary changes in the job_email_settings.t
 Obviously, a number of improvements  can be made to this program, such as: 
 - ecrypting the config settings in the job_email_settings.txt
 - modifying to sending the email to multiple recepient
+- not to send any mail when no job record is retreived 
+
 etc. 
