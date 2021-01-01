@@ -1,7 +1,8 @@
 # indeed-job-scrapper
 
 
-This is a simple python script to scrape jobs from indeed.com 
+This is a simple python script to scrape jobs from indeed.com, 
+
 using a scheduler (eg. cron job ), you can schedule this script to be sending the jobs to your mail periodically
 
 
